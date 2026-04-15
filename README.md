@@ -18,4 +18,4 @@ In this project, I created a form with Name, Email, and Password fields and adde
 - JavaScript  
 
 ## Author
-Karvin
+Kavinkumar
